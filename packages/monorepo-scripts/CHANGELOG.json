@@ -1,5 +1,13 @@
 [
     {
+        "version": "1.0.6",
+        "changes": [
+            {
+                "note": "Add ForwarderError to IGNORED_EXCESSIVE_TYPES in docGenConfigs"
+            }
+        ]
+    },
+    {
         "timestamp": 1534210131,
         "version": "1.0.5",
         "changes": [
